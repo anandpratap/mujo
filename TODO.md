@@ -1,0 +1,5 @@
+- Restructure and rearrange everything, make it more modular
+- Add JST time integration
+- Adaptive CFL condition
+- Add viscous flux terms
+- Check the boundary conditions

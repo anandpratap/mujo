@@ -1,0 +1,10 @@
+*~
+src/thrash/*
+a.out
+data.dat
+*.dat
+*.so
+*.pyc
+*.cxx
+*.o
+src.*
